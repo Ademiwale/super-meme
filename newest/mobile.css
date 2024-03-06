@@ -1,0 +1,17 @@
+@media only screen and (max-width:480px) {
+    nav{
+        flex-direction: column;
+        padding: 5rem;
+        gap: 2rem;
+        
+    }
+    .logo{
+        flex-direction: column;
+    }
+    .link{
+       flex-direction: column; 
+    }
+    .buttons{
+flex-direction: row;
+    }
+}
